@@ -21,25 +21,25 @@ h2 {
     align-items: center;
 }
 .paralax__img-one {
-    background: url('https:/picsum.photos/id/90/1140');
+    background: url('https://picsum.photos/id/90/1140');
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
 }
 .paralax_img__two {
-    background: url('https:/picsum.photos/id/77/1140');
+    background: url('https://picsum.photos/id/77/1140');
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
 }
 .paralax_img__three {
-    background: url('https:/picsum.photos/id/109/1140');
+    background: url('https://picsum.photos/id/109/1140');
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
 }
 .paralax_img__four {
-    background: url('https:/picsum.photos/id/1001/1140');
+    background: url('https://picsum.photos/id/1001/1140');
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
